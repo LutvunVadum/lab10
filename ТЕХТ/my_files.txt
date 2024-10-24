@@ -1,0 +1,19 @@
+Файли з розширенням .doc:
+file04.doc
+file06.doc
+file09.doc
+file13.doc
+
+Файли з розширенням .docx:
+file02.docx
+file05.docx
+file08.docx
+file11.docx
+file12.docx
+file14.docx
+
+Файли з розширенням .txt:
+file01.txt
+file03.txt
+file07.txt
+file10.txt
